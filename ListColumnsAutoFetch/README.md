@@ -1,6 +1,7 @@
-## list-columns-auto-fetch
+## List Columns Auto Fetch
 
-This is where you include your WebPart documentation.
+This is sample SPFx webpart which will fetch the List Title based on the Web url, and then fetch the columns based on the list selected.
+it display the value of Title column and Selected column in webpart property for all items.
 
 ### Building the code
 
