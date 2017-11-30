@@ -1,0 +1,8 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "version": "1.3.4",
+    "libraryName": "list-columns-auto-fetch",
+    "libraryId": "bef07738-2eac-4e3e-b172-b9eaeb555f7f",
+    "environment": "spo"
+  }
+}

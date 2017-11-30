@@ -1,0 +1,18 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "list-columns-auto-fetch-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/listColumnsAutoFetch/ListColumnsAutoFetchWebPart.js",
+          "manifest": "./src/webparts/listColumnsAutoFetch/ListColumnsAutoFetchWebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "ListColumnsAutoFetchWebPartStrings": "lib/webparts/listColumnsAutoFetch/loc/{locale}.js"
+  }
+}

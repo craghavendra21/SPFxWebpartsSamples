@@ -1,0 +1,12 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "list-columns-auto-fetch-client-side-solution",
+    "id": "bef07738-2eac-4e3e-b172-b9eaeb555f7f",
+    "version": "1.0.0.0",
+    "skipFeatureDeployment": true
+  },
+  "paths": {
+    "zippedPackage": "solution/list-columns-auto-fetch.sppkg"
+  }
+}
