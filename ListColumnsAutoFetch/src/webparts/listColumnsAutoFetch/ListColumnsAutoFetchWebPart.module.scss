@@ -1,6 +1,14 @@
 @import '~@microsoft/sp-office-ui-fabric-core/dist/sass/SPFabricCore.scss';
 
 .listColumnsAutoFetch {
+  .listItemsContainer{
+    list-style: none;
+    
+    .listItem{
+      list-style: none;
+    }
+  }
+
   .container {
     max-width: 700px;
     margin: 0px auto;
